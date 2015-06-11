@@ -1,0 +1,99 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.slide-image {
+    width: 100%;
+    align-self: center;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    /*height: 130px;*/
+    overflow: hidden;
+}
+
+    .caption h4 {
+        white-space: nowrap;
+    }
+
+.thumbnail img {
+    max-width: none;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+    .thumbnail .caption-full {
+        padding: 9px;
+        color: #333;
+    }
+
+footer {
+    margin: 50px 0;
+}
+
+
+
+/* Custom */
+
+img.menu {
+    max-width: 250px;
+}
+
+.navbar-brand {
+    float: left;
+    height: auto;
+    padding: 2px 0px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+body {
+    background-color: #e6e6e6;
+}
+
+.menu-size {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5px 5px;
+}
+
+.thumbnail {
+    min-height: 440px;
+}
+
+.table th, .table td { 
+     border-top: none !important; 
+ }
+
+#subtotal, #tax, #total  {
+    font-weight: bold;
+}
+
+.table {
+    margin: 0;
+    padding:0;
+}
