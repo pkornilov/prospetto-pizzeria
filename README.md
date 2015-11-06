@@ -15,7 +15,7 @@ Installation
 ---
 Due to the limited support of Web SQL, to run the project you would require **Google Chrome**, **Opera**, **Safari** or **Android browser**.
  1. Get the project on your computer
- 2. Open *index.html* with a Web SQL-supporting browser (listed above).
+ 2. Just open `index.html` with a Web SQL-supporting browser (listed above).
  
 Screenshots
 ---
