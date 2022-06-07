@@ -1,6 +1,8 @@
 # <img src="http://i.imgur.com/aDNRL6n.png" >
 **Prospetto Pizzeria** is a fictional small pizza restaurant, and this project is its conceptual website. It has a menu of pizzas and beverages that customers can add to the cart. After shopping, customers can review their cart, change quantities, remove items, etc. The app does not make any server requests, everything is done client-side (JavaScript, Web SQL) as it is only a concept.
 
+[Live Demo](https://pkornilov.github.io/prospetto-pizzeria/)
+
 Built with
 ---
 * HTML5
